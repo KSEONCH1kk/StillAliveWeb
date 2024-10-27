@@ -9,7 +9,7 @@ A **Portal**-inspired animation that displays the iconic "Still Alive" lyrics in
 - **Synchronized Lyrics**: Lyrics appear in time with the song.
 - **Authentic Terminal Style**: Dark background, orange text, and classic retro font for an immersive experience.
 - **ASCII Art & Structured Layout**: Recreates the classic *Portal* ending screen with ASCII art and divided sections.
-- **Audio Playback**: Plays the Portal song for a complete experience.
+- **Audio Playback**: Plays `salive.wav` (the Portal song) for a complete experience.
 
 ## 📜 Table of Contents
 
