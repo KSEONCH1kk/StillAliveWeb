@@ -2,8 +2,6 @@
 
 A **Portal**-inspired animation that displays the iconic "Still Alive" lyrics in a retro terminal style. This project replicates the look and feel of the game's ending screen, complete with ASCII art, lyrics timed to the song, and a terminal-like aesthetic.
 
-![Preview of Animation](https://path/to/your/screenshot.png) <!-- Replace with actual link to screenshot -->
-
 ## 🌌 Features
 
 - **Synchronized Lyrics**: Lyrics appear in time with the song.
@@ -62,9 +60,3 @@ This project is licensed under the MIT License. Feel free to modify and use it!
 
     Lyrics and ASCII art inspired by Portal’s ending screen.
     Original song: Still Alive by Jonathan Coulton for Portal.
-
-## 📷 Screenshots
-
-Here's a preview of the terminal-style animation:
-
-<!-- Replace with actual link to screenshot -->
