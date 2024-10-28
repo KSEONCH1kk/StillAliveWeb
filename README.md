@@ -1,7 +1,7 @@
 # 🎶 Portal "Still Alive" Lyrics Animation
 
 A **Portal**-inspired animation that displays the iconic "Still Alive" lyrics in a retro terminal style. This project replicates the look and feel of the game's ending screen, complete with ASCII art, lyrics timed to the song, and a terminal-like aesthetic.
-[This on GutHub Pages deployment](https://kseonch1kk.github.io/StillAliveWeb/)
+[This on GitHub Pages deployment](https://kseonch1kk.github.io/StillAliveWeb/)
 
 
 ## 🌌 Features
@@ -9,7 +9,7 @@ A **Portal**-inspired animation that displays the iconic "Still Alive" lyrics in
 - **Synchronized Lyrics**: Lyrics appear in time with the song.
 - **Authentic Terminal Style**: Dark background, orange text, and classic retro font for an immersive experience.
 - **ASCII Art & Structured Layout**: Recreates the classic *Portal* ending screen with ASCII art and divided sections.
-- **Audio Playback**: Plays `salive.wav` (the Portal song) for a complete experience.
+- **Audio Playback**: Plays the Portal song for a complete experience.
 
 ## 📜 Table of Contents
 
